@@ -1,0 +1,10 @@
+Variable Name,Variable meaning,Codes
+Test_result,Cholera test result,0 = negative; 1 = positive 
+Sex,Sex,1 = male; 2 = female
+Age,Age,years
+Subcounty,Subcounty of residence,1= South; 2 =  East; 3 =  West; 4 =  North; 5 = West; 6 = North East
+Water,Main water source,1 = piped; 2 = bore hole; 3 = public well; 4 = other
+Sanitation,Main sanitary facility,1 = private toilet; 2 = private latrine; 3 = public latrine; 4 = other
+Income,Family income,1 = lowest; 2 = low; 3 = average; 4 = high; 5 = highest
+Informal_settlement,Does person live in an informal settlement,1 = yes; 2 = no
+Outcome,Did person die,0 = Alive; 1 = Dead
